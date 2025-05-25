@@ -59,4 +59,33 @@ Requirement Analysis involves several structured activities that help define wha
   - Ensure documented requirements accurately reflect stakeholder needs.
   - Involve stakeholders to review, confirm, and approve the requirements.
   - Define acceptance criteria and maintain traceability.
+## 📑 Types of Requirements
+
+In software development, understanding both functional and non-functional requirements is crucial to building a system that meets user and business expectations. Below are the definitions and examples for each type of requirement, based on the Booking Management System case study.
+
+---
+
+### ✅ Functional Requirements
+
+Functional requirements describe what the system should do — the specific functions, features, and operations that must be implemented.
+
+**Examples for the Booking Management System:**
+- Users must be able to register and create an account.
+- The system should allow users to search for available properties by location and date.
+- Users must be able to book, cancel, and reschedule their reservations.
+- Property owners should be able to list new properties and manage bookings.
+- The system must send booking confirmation emails to users.
+
+---
+
+### 🔒 Non-functional Requirements
+
+Non-functional requirements define how the system performs its functions. These relate to system performance, usability, security, and reliability.
+
+**Examples for the Booking Management System:**
+- The website should load within 2 seconds on standard broadband connections.
+- The system should be available 99.9% of the time (high availability).
+- All user data must be encrypted at rest and in transit.
+- The platform should support up to 10,000 concurrent users.
+- The user interface must be responsive and accessible on mobile, tablet, and desktop devices.
 
