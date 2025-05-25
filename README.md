@@ -33,3 +33,30 @@ By defining clear and detailed requirements, teams can better estimate timelines
 
 ### 3. 🎯 Guides System Design and Development
 Requirements act as a blueprint for developers. Functional and non-functional requirements guide the system's structure, behavior, and performance expectations, ensuring the final product meets user needs and business goals.
+## 🛠️ Key Activities in Requirement Analysis
+
+Requirement Analysis involves several structured activities that help define what the software system should do and how it should behave. Here are the five key activities:
+
+- **Requirement Gathering 🗂️**  
+  - Collect raw requirements from stakeholders through interviews, surveys, workshops, and observations.
+  - Understand stakeholder needs, expectations, and business context.
+
+- **Requirement Elicitation ✍️**  
+  - Refine and expand gathered data into usable information.
+  - Techniques include brainstorming, focus groups, and prototyping.
+  - Helps clarify assumptions and uncover hidden requirements.
+
+- **Requirement Documentation 📚**  
+  - Document all functional and non-functional requirements clearly.
+  - Create Requirement Specification Documents, User Stories, and Use Cases for consistent communication and traceability.
+
+- **Requirement Analysis and Modeling 📊**  
+  - Analyze the feasibility, importance, and impact of each requirement.
+  - Create models such as Data Flow Diagrams (DFDs) or Entity Relationship Diagrams (ERDs) for visualization and structure.
+  - Prioritize requirements based on business value.
+
+- **Requirement Validation ✅**  
+  - Ensure documented requirements accurately reflect stakeholder needs.
+  - Involve stakeholders to review, confirm, and approve the requirements.
+  - Define acceptance criteria and maintain traceability.
+
